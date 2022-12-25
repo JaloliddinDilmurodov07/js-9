@@ -1,0 +1,9 @@
+.log{
+text-align: center;
+justify-content: space-between;
+color: blue;
+}
+.log:hover {
+background-color: rgb(255, 0, 0);
+color: black;
+}
